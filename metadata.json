@@ -1,0 +1,6 @@
+{
+  "name": "William Daniel Gaming",
+  "description": "A premium private gaming platform supporting live chat, daily events, payment management, and real-time support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
